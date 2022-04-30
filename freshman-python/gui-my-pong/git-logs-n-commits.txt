@@ -1,0 +1,96 @@
+NOTE: MY GIT CLI IS NOT WORKING PROPERLY SO I CANNOT DISPLAY MY PREVIOUS COMMITS AND UPLOAD IT ON GITHUB. IN THIS CASE, I COPIED ALL THE MESSAGES FROM THE COMMITS AND PASTED IT HERE FOR PROPER DOCUMENTATION.
+
+$ git log
+commit 9399f9afce586110d087b9fbfe188f9ab1cd1c16 (HEAD -> main)
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+Date:   Sat Apr 30 22:12:25 2022 +0800
+
+    Sidenote:
+     Here are the suggested improvements from the author.
+      1. Add a launch button to start the game.
+      2. Set the limit to end the game.
+      3. A background music will always be welcome.
+      4. By making a menu screen likewise a complete game set, it allows replayability.
+      5. Adding other kinds of gimmicks (e.g. cute animations, icons, improved ui) might help but this is a simple pong game with the usual setup.
+     If you did enjoy the game or were inspired of it, you may share it with your friends and family. Thank you for your appreciation!
+
+commit 36e869e727231a37372146209e51efbd915216ef
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+Date:   Sat Apr 30 21:58:20 2022 +0800
+
+    Finished the pong game by adding the score points.
+
+commit 46054cb254a58aeea14d6dcd672a24fc96678d2a
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+...skipping...
+commit 7ea106ecd61d4337842eb53185c03ae4d7f699ba
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+Date:   Sat Apr 30 21:15:25 2022 +0800
+
+    Debugged the ball 'goto(0)' at line 91.
+
+commit 8b8291c6b4e349e80c563fb32b69b2baa6874a2e
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+Date:   Sat Apr 30 21:09:57 2022 +0800
+
+    Setting up border checks for the ball.
+
+commit db83a30bfb8dda0354cd2bf42fe0114f1d17a43e
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+Date:   Sat Apr 30 20:59:11 2022 +0800
+
+    Added event function for moving the paddles.
+
+commit d5fe47639d52fe8a63cab33965bd04e8325fb67f
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+Date:   Sat Apr 30 20:48:24 2022 +0800
+
+    Setting up the board, paddle, and ball.
+commit 7ea106ecd61d4337842eb53185c03ae4d7f699ba
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+Date:   Sat Apr 30 21:15:25 2022 +0800
+
+    Debugged the ball 'goto(0)' at line 91.
+
+commit 8b8291c6b4e349e80c563fb32b69b2baa6874a2e
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+Date:   Sat Apr 30 21:09:57 2022 +0800
+
+    Setting up border checks for the ball.
+
+commit db83a30bfb8dda0354cd2bf42fe0114f1d17a43e
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+Date:   Sat Apr 30 20:59:11 2022 +0800
+
+    Added event function for moving the paddles.
+
+commit d5fe47639d52fe8a63cab33965bd04e8325fb67f
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+Date:   Sat Apr 30 20:48:24 2022 +0800
+
+    Setting up the board, paddle, and ball.
+(END)      0 [sig] bash 307! sigpacket::process: Suppressing signal 18 to win32 process (pid 5796)
+commit 7ea106ecd61d4337842eb53185c03ae4d7f699ba
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+Date:   Sat Apr 30 21:15:25 2022 +0800
+
+    Debugged the ball 'goto(0)' at line 91.
+
+commit 8b8291c6b4e349e80c563fb32b69b2baa6874a2e
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+Date:   Sat Apr 30 21:09:57 2022 +0800
+
+    Setting up border checks for the ball.
+
+commit db83a30bfb8dda0354cd2bf42fe0114f1d17a43e
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+Date:   Sat Apr 30 20:59:11 2022 +0800
+
+    Added event function for moving the paddles.
+
+commit d5fe47639d52fe8a63cab33965bd04e8325fb67f
+Author: MichaelViernes271 <michaeleviernes@iskolarngbayan.pup.edu.ph>
+Date:   Sat Apr 30 20:48:24 2022 +0800
+
+    Setting up the board, paddle, and ball.
+
