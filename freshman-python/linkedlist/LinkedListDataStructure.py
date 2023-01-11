@@ -283,11 +283,11 @@ class LinkedList:
         
         templist = linklist.copy()
         length = linklist.length()
-        for x in range(pos, length):
-            templist.removePosition(x)
+        for x in range(pos+1, length+1):
+            templist.pop()
         templist.push(val)
-        for x in range(pos, length):
-            templist.addToEnd(linklist.atIndex(x))
+        for x in range(pos+1, length+1):
+            templist.push(linklist.atIndex(x))
         return templist
 
 
